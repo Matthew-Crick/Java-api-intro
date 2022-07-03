@@ -1,2 +1,1 @@
-# Java_api1
-First api in Java
+A repository containing a name query api written in Java.
